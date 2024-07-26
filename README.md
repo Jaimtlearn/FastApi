@@ -73,4 +73,4 @@ This project is licensed under the MIT License. See the <pre>LICENSE</pre> file 
 
 ## Contact
 
-For further details or queries, please contact the development team at <pre>jaimitlearn@gmail.com</pre>.
+For further details or queries, please contact the development team at <pre>jaimitlearn@gmail.com</pre>
